@@ -82,7 +82,6 @@ weather-forecast-app/
 ├── requirements.txt # Dependencies
 └── assets/ # Screenshots or icons (optional)
 
-
 ---
 
 ##  To-Do / Enhancements
@@ -120,11 +119,9 @@ This project is open-source and available under the **MIT License**.
 1. Save this content as `README.md`  
 2. Place it in your project root folder  
 3. Create `requirements.txt` with the following:
-```requests
+```bash
+requests
 ```
-
----
-
 
 ---
 
