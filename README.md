@@ -10,11 +10,12 @@ A user-friendly **Python GUI Weather App** that shows live weather details for I
 
 ##  Screenshot
 
-![Image1](https://github.com/user-attachments/assets/1f3aceaa-152d-42c5-8e92-007fc945ae20)
-  
-![Image2](https://github.com/user-attachments/assets/73f3e5f6-6e58-4643-9c55-2503c891aa39)
+![Image 1](https://github.com/user-attachments/assets/df5d1fcd-acd4-4bd4-8f33-70769f445243)
 
-![Image3(DarkMode)](https://github.com/user-attachments/assets/3bccdfed-6df4-4d27-a383-2d1477c8ce3c)
+![Image 2](https://github.com/user-attachments/assets/1c7fffb5-9e5c-4ae0-86a3-bb1f4a3d373a)
+
+![Image 3 (Dark Mode)](https://github.com/user-attachments/assets/0d4e541e-85ef-48d8-b1a3-adf39516af68)
+
 
 ---
 
