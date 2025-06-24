@@ -76,7 +76,6 @@ API_KEY = "your_actual_api_key_here"
 ```
 ##  Project Structure
 weather-forecast-app/
-│ 
 
 │ ├── weather_app.py
 
@@ -85,6 +84,7 @@ weather-forecast-app/
 │-- requirements.txt
 
 │-- assets/ 
+
 ---
 
 ##  To-Do / Enhancements
