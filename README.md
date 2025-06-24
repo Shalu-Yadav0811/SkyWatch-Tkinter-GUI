@@ -139,4 +139,3 @@ requests
 | Corrected repo name in paths | Replaced `weather-forecast-app` with `SkyWatch-Tkinter-GUI` |
 | Added formatting consistency | Proper line breaks, spacing, and indent alignment |
 
-Let me know if you want this saved as a file or need a `requirements.txt` generated automatically!
