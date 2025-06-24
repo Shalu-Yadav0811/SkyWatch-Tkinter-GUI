@@ -24,7 +24,7 @@ A user-friendly **Python GUI Weather App** that shows live weather details for I
 -  Search by Indian City or State  
 -  Auto-detect city using IP  
 -  Real-time Temperature, Humidity, Pressure  
--  Dark Mode Toggle *(if implemented)*  
+-  Dark Mode Toggle 
 -  Last updated timestamp  
 -  API integration using OpenWeatherMap  
 -  Error handling for invalid input and no internet  
@@ -76,12 +76,15 @@ API_KEY = "your_actual_api_key_here"
 ```
 ##  Project Structure
 weather-forecast-app/
-│
-├── weather_app.py # Main application file
-├── README.md # Project documentation (this file)
-├── requirements.txt # Dependencies
-└── assets/ # Screenshots or icons (optional)
+│ 
 
+│ ├── weather_app.py
+
+│-- README.md
+
+│-- requirements.txt
+
+│-- assets/ 
 ---
 
 ##  To-Do / Enhancements
